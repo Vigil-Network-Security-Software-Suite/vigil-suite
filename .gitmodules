@@ -1,0 +1,12 @@
+[submodule "nlog"]
+	path = nlog
+	url = http://github.com/raging-loon/nlog
+[submodule "tpcap"]
+	path = tpcap
+	url = http://github.com/raging-loon/tpcap
+[submodule "vigil"]
+	path = vigil
+	url = http://github.com/raging-loon/vigil
+[submodule "libvigil"]
+	path = libvigil
+	url = http://github.com/raging-loon/libvigil
