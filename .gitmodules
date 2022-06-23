@@ -10,3 +10,6 @@
 [submodule "libvigil"]
 	path = libvigil
 	url = http://github.com/raging-loon/libvigil
+[submodule "ipc-router"]
+	path = ipc-router
+	url = https://github.com/Vigil-Network-Security-Software-Suite/ipc-router
