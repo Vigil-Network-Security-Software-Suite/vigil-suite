@@ -1,15 +1,15 @@
 [submodule "nlog"]
 	path = nlog
-	url = http://github.com/raging-loon/nlog
+	url = http://github.com/Vigil-Network-Security-Software-Suite/nlog
 [submodule "tpcap"]
 	path = tpcap
-	url = http://github.com/raging-loon/tpcap
+	url = http://github.com/Vigil-Network-Security-Software-Suite/tpcap
 [submodule "vigil"]
 	path = vigil
-	url = http://github.com/raging-loon/vigil
+	url = http://github.com/Vigil-Network-Security-Software-Suite/vigil
 [submodule "libvigil"]
 	path = libvigil
-	url = http://github.com/raging-loon/libvigil
+	url = http://github.com/Vigil-Network-Security-Software-Suite/libvigil
 [submodule "ipc-router"]
 	path = ipc-router
 	url = https://github.com/Vigil-Network-Security-Software-Suite/ipc-router
