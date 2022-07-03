@@ -22,6 +22,7 @@
 
     y[2] = 0;
     x[2] = cols;
+    printw("h");
     
 
     refresh();
